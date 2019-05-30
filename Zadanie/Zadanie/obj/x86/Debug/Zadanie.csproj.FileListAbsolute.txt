@@ -1,0 +1,8 @@
+D:\СиmSoft\Zadanie\Zadanie\bin\Debug\Zadanie.exe
+D:\СиmSoft\Zadanie\Zadanie\bin\Debug\Zadanie.pdb
+D:\СиmSoft\Zadanie\Zadanie\obj\x86\Debug\Zadanie.Form1.resources
+D:\СиmSoft\Zadanie\Zadanie\obj\x86\Debug\Zadanie.Properties.Resources.resources
+D:\СиmSoft\Zadanie\Zadanie\obj\x86\Debug\Zadanie.csproj.GenerateResource.Cache
+D:\СиmSoft\Zadanie\Zadanie\obj\x86\Debug\Zadanie.exe
+D:\СиmSoft\Zadanie\Zadanie\obj\x86\Debug\Zadanie.pdb
+D:\СиmSoft\Zadanie\Zadanie\obj\x86\Debug\Zadanie.csprojResolveAssemblyReference.cache
